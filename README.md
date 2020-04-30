@@ -1,7 +1,7 @@
 # bookmarks
 
 
-[A list of small advices from a 68 year old]()
+- [A list of small advices from a 68 year old](https://github.com/ptadas/bookmarks/blob/master/README.md#a-list-of-small-advices-from-a-68-year-old)
  
 
 ### A list of small advices from a 68 year old.
