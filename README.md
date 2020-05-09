@@ -3,6 +3,7 @@
 
 - [A list of small advices from a 68 year old](https://github.com/ptadas/bookmarks/blob/master/README.md#a-list-of-small-advices-from-a-68-year-old)
 - [Producer vs Consumer mind](https://github.com/ptadas/bookmarks/blob/master/README.md#producer-vs-consumer-mind)
+- [web-design-in-4-minutes](https://github.com/ptadas/bookmarks/blob/master/README.md#web-design-in-4-minutes)
  
 
 ### A list of small advices from a 68 year old.
@@ -11,6 +12,9 @@
 
 ### Producer vs Consumer mind
 - URL: https://news.ycombinator.com/item?id=3555237
+
+### web-design-in-4-minutes
+- URL: https://jgthms.com/web-design-in-4-minutes/
 
 
 # quotes / ideas / gems
