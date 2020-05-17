@@ -4,7 +4,7 @@
 - [A list of small advices from a 68 year old](https://github.com/ptadas/bookmarks/blob/master/README.md#a-list-of-small-advices-from-a-68-year-old)
 - [Producer vs Consumer mind](https://github.com/ptadas/bookmarks/blob/master/README.md#producer-vs-consumer-mind)
 - [web-design-in-4-minutes](https://github.com/ptadas/bookmarks/blob/master/README.md#web-design-in-4-minutes)
- 
+ - [clinical-trial-parser](https://github.com/ptadas/bookmarks/blob/master/README.md#clinical-trial-parser)
 
 ### A list of small advices from a 68 year old.
 - URL: https://kk.org/thetechnium/68-bits-of-unsolicited-advice/
@@ -16,6 +16,8 @@
 ### web-design-in-4-minutes
 - URL: https://jgthms.com/web-design-in-4-minutes/
 
+### clinical-trial-parser
+- URL: https://github.com/facebookresearch/Clinical-Trial-Parser/blob/master/doc/architecture.md
 
 # quotes / ideas / gems
 
